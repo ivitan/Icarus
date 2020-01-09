@@ -1,6 +1,6 @@
 <p align="center" class="has-mb-6">
 <img class="not-gallery-item" height="48" src="https://ppoffice.github.io/hexo-theme-icarus/images/logo.svg">
-<br> Modify from hexo-theme-icarus
+<br> Modify from [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus)
 <br>
 <a href="https://vitan.me">Preview</a> |
 <a href="https://github.com/ivitan/Icarus/archive/master.zip">Download</a>
