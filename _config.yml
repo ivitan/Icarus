@@ -111,7 +111,7 @@ widgets:
         social_links:
             Email:
                 icon: fa fa-envelope
-                url: 'mailto:vitan.me@gmail.com'
+                url: 'mailto:admin@vitan.me'
             Weibo:
                 icon: fab fa-weibo
                 url: 'https://weibo.com/ivitan'
