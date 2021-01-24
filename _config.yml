@@ -75,19 +75,19 @@ head:
     structured_data:
         # Page title (optional)
         # You should leave this blank for most of the time
-        title: 
+        title: VITAN
         # Page description (optional)
         # You should leave this blank for most of the time
-        description: 
+        description: 楊咩阿
         # Page URL (optional)
         # You should leave this blank for most of the time
-        url: 
+        url: https://ivitan.com
         # Page author (article:author) (optional)
         # You should leave this blank for most of the time
-        author: 
+        author: VITAN
         # Page images (optional)
         # You should leave this blank for most of the time
-        image: 
+        image: /img/logo.png
     # Additional HTML meta tags in an array
     meta:
         # Meta tag specified in <attribute>=<value> style
@@ -100,7 +100,7 @@ head:
         - property="article:tag";content="Web"
         - property="article:tag";content="Blog..."
     # URL or path to the website's RSS atom.xml
-    rss: 
+    rss: /xml/atom.xml
 # Page top navigation bar configurations
 navbar:
     # Navigation menu items
@@ -346,8 +346,8 @@ plugins:
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
-    cdn: jsdelivr
+    cdn: unpkg
     # Name or URL template of the webfont CDN provider
     fontcdn: google
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: fontawesome
+    iconcdn: https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css
