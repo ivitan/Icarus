@@ -160,8 +160,8 @@ search:
 comment:
     # Name of the comment plugin
     type: valine
-    app_id: XCjYQPc9kGEIiyvI3z87u597-gzGzoHsz
-    app_key: rG3tgBLm6WGpoU2895oVKXVU
+    app_id: D33WPBHpBw2CjwdWpFvpUhDm-MdYXbMMI
+    app_key: MzQtKvSeVPU4nS4ljd3zlbMp
     notify: true           # (optional) receive email notification
     verify: false           # (optional) show verification code
     placeholder: 快来做第一个评论的人吧！   # (optional) comment box placeholder text
